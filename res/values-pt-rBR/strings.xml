@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Leitor</string>
+    <string name="opening">Abrindo…</string>
+    <string name="error_no_file">Nenhum PDF recebido.</string>
+    <string name="error_read">Não foi possível ler este arquivo.</string>
+    <string name="error_protected">Este PDF é protegido por senha.</string>
+    <string name="error_invalid">Arquivo PDF inválido ou corrompido.</string>
+</resources>
