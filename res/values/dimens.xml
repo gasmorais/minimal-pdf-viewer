@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="page_spacing">8dp</dimen>
+    <dimen name="counter_height">32dp</dimen>
+    <dimen name="counter_padding">16dp</dimen>
+    <dimen name="counter_margin">24dp</dimen>
+    <dimen name="counter_text_size">14sp</dimen>
+    <dimen name="message_text_size">16sp</dimen>
+</resources>

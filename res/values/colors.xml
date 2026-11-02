@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FF202124</color>
+    <color name="page">#FFFFFFFF</color>
+    <color name="message_text">#FFBDC1C6</color>
+    <color name="counter_background">#CC000000</color>
+    <color name="counter_text">#FFFFFFFF</color>
+    <color name="ic_launcher_background">#FF1C1C1E</color>
+    <color name="ic_launcher_stroke">#FFFFFFFF</color>
+</resources>
