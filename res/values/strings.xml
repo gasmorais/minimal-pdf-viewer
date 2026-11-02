@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reader</string>
+    <string name="opening">Opening…</string>
+    <string name="error_no_file">No PDF received.</string>
+    <string name="error_read">This file could not be read.</string>
+    <string name="error_protected">This PDF is password protected.</string>
+    <string name="error_invalid">Invalid or corrupted PDF file.</string>
+    <string name="page_counter" translatable="false">%1$d / %2$d</string>
+</resources>
