@@ -2,6 +2,12 @@
 
 A lightweight PDF viewer for Android. It has no launcher icon and requests no permissions. It opens when you tap a PDF in any app.
 
+## Stack
+
+- Java 17 on the Android framework APIs (`PdfRenderer`), with no third-party libraries
+- Android SDK 36, minimum API 31
+- `build.sh` with `aapt2`, `javac`, `d8` and `apksigner`, with no Gradle
+
 ## Features
 
 - Continuous vertical scrolling, with pages fitted to the screen width
